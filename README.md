@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### 不想学习
+🔭 I’m currently working on ...
 <!--
 **gaoqian2000/gaoqian2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
