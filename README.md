@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### 不想学习
+## 不想学习
 
 <!--
 **gaoqian2000/gaoqian2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
