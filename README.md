@@ -1,4 +1,5 @@
 ## 不想学习
+![头像](picture.png)
 
 <!--
 **gaoqian2000/gaoqian2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
